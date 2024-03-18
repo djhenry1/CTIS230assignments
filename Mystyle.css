@@ -1,0 +1,14 @@
+body{color:beige;background-color: black;font-size:large;font-family:Georgia, 'Times New Roman', Times, serif;} 
+h1{color:red;}
+h2{color:blueviolet;
+background-color:bisque; width:fit-content; font-weight:bolder;font-style:italic;}  
+a:link{color:red;}
+
+body{color:green;background-color:bisque;font-size:large;font-family: Georgia, 'Times New Roman', Times, serif;}
+     h1{color:black;}
+     h2{color:green;background-color:black;width:fit-content;font-weight:bolder;font-style:italic;}
+a:link{color: black;}
+
+ Body{color:purple;font-size:large;font-family: Georgia, 'Times New Roman', Times, serif;}
+h1{color:purple;background-color: black;width: fit-content;font-weight: bolder;font-style: italic;}
+h2{color:blueviolet;}    
