@@ -18,3 +18,11 @@ body{color:beige;background-color: black;font-size:large;font-family:Georgia, 'T
      h1{border: 1px solid purple;}
      h2{border: 1px soliid purple;}
      p{border: 1px solid purple;}
+
+     p.intro{font-style: italic;}
+     ol li {
+        margin-bottom: 0.2em;
+    }
+    div.flexible {  
+        display:flex;  
+    }
