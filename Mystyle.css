@@ -26,3 +26,14 @@ body{color:beige;background-color: black;font-size:large;font-family:Georgia, 'T
     div.flexible {  
         display:flex;  
     }
+
+    @media (max-width: 768px) {.container {padding: 0 10px;}}
+
+    .element 
+    {width: 200px;height: 100px;background-color: white;}
+    
+    @media (orientation: landscape) 
+    {.element {width: 300px;height: 150px;background-color: red;}}
+    
+    @media (orientation: portrait) 
+    {.element {width: 200px;height: 100px;background-color: blue;}}
